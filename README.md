@@ -16,3 +16,8 @@ The goal of this project is to analyze bikeshare data and explore useful informa
 ## Notes
 This repository was updated to practice Git and GitHub workflow.
 
+## Installation
+Run the Python file in a local environment with Python 3 installed.
+
+## Acknowledgements
+This project was completed as part of Udacity coursework.
